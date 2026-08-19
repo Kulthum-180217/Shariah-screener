@@ -579,3 +579,5 @@ def main():
         "Financial data sourced from Yahoo Finance may have delays or inaccuracies. "
         "Consult a qualified Islamic scholar for formal investment guidance."
     )
+if __name__ == "__main__":
+ main()
